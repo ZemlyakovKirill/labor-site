@@ -1,6 +1,6 @@
  site_name: Описание сервиса "биржа труда"
- site_description: Описание структуры БД "Биржи труда" и назначение url-адресов
- theme: readthedocs
+ site_description: Описание структуры БД "Биржа труда" и назначение url-адресов
+ theme: mkdocs
  nav: 
     - 'Модели' : 'models.md'
     - 'Адреса' : 'urls.md'
